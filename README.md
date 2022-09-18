@@ -5,9 +5,17 @@
 
 <img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiMillieuh&layout=compact&theme=tokyonight" alt="Stats2"/>
 <br>
-    <img src="https://img.shields.io/github/followers/MiMillieuh?style=for-the-badge" alt="Gitbadge"/>
+    <a href="https://github.com/MiMillieuh">
+    <img src="https://img.shields.io/github/followers/MiMillieuh?label=GIT%20FOLLOWERS&style=for-the-badge" alt="Gitbadge"/>
+    </a>
     <a href="https://liberapay.com/MiMillieuh/">
     <img alt="Liberapay patrons" src="https://img.shields.io/liberapay/patrons/mimillieuh?label=Librepay%20Sponsor&style=for-the-badge">
+    </a>
+    <a href="https://www.youtube.com/channel/UC6GrYkEU8scHoL3ULcOXOOQ">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC6GrYkEU8scHoL3ULcOXOOQ?label=YT%20SUBSCRIBERS&style=for-the-badge">
+    </a>
+    <a href="https://twitter.com/MiMillie1">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mimillie1?label=Twitter%20Followers&style=for-the-badge">
     </a>
 </div>
 <h3>Who am I ?</h3>
