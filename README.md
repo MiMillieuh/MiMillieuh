@@ -6,6 +6,9 @@
 <img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiMillieuh&layout=compact&theme=tokyonight" alt="Stats2"/>
 <br>
     <img src="https://img.shields.io/github/followers/MiMillieuh?style=for-the-badge" alt="Gitbadge"/>
+    <a href="https://liberapay.com/MiMillieuh/">
+    <img alt="Liberapay patrons" src="https://img.shields.io/liberapay/patrons/mimillieuh?label=Librepay%20Sponsor&style=for-the-badge">
+    </a>
 </div>
 <h3>Who am I ?</h3>
 <p>I'm a young student that enjoy codding and do some softwares for Linux in general</p>
