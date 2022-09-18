@@ -19,14 +19,14 @@
     </a>
 </div>
 <h3>Who am I ?</h3>
-<p>I'm a young student that enjoy codding and do some softwares for Linux in general</p>
+<p>I'm a young student that enjoy codding and do some softwares for Linux in general.</p>
 <h3>What content do you make ?</h3>
-<p>I'm making bash scripts, Electron apps, Tauri apps and soon rust and GTK apps</p>
+<p>I'm making bash scripts, Electron apps, Tauri apps and soon rust and GTK apps.</p>
 <h3>My projects</h3>
-<p>I have some project about an OS and it's own ecosystem with <a href="https://github.com/LemonadeSoftware">Lemonade</a></p>
-<p>Another project is to port the Adobe suite and other softwares to Linux</p>
-<p>Also some project with mental health in mind might come soon</p>
-<p>Some random projects</p>
+<p>I have some project about an OS and it's own ecosystem with <a href="https://github.com/LemonadeSoftware">Lemonade</a>.</p>
+<p>Another project is to port the Adobe suite and other softwares to Linux.</p>
+<p>Also some project with mental health in mind might come soon.</p>
+<p>Some random projects.</p>
 <p>And way more things to come !</p>
 </div>
 
