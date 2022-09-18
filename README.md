@@ -1,9 +1,9 @@
 <div id="header" align="center">
 <div>
 <h1>Hi, I'm MiMillieuh 👋<h1>
-<img src="https://github-readme-stats.vercel.app/api?username=MiMillieuh&show_icons=true&theme=tokyonight" alt="Stats"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiMillieuh&layout=compact&theme=tokyonight" alt="Stats2"/>
+<img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=MiMillieuh&show_icons=true&theme=tokyonight" alt="Stats"/>
+
+<img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiMillieuh&layout=compact&theme=tokyonight" alt="Stats2"/>
 <br>
     <img src="https://img.shields.io/github/followers/MiMillieuh?style=for-the-badge" alt="Gitbadge"/>
 </div>
