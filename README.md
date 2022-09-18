@@ -1,16 +1,20 @@
-### Hi there 👋
+<div id="header" align="center">
+<div>
+<h1>Hi, I'm MiMillieuh 👋<h1>
+<img src="https://github-readme-stats.vercel.app/api?username=MiMillieuh&show_icons=true&theme=tokyonight" alt="Stats"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiMillieuh&layout=compact&theme=tokyonight" alt="Stats2"/>
+<br>
+    <img src="https://img.shields.io/github/followers/MiMillieuh?style=for-the-badge" alt="Gitbadge"/>
+</div>
+<h3>Who am I ?</h3>
+<p>I'm a young student that enjoy codding and do some softwares for Linux in general</p>
+<h3>What content do you make ?</h3>
+<p>I'm making bash scripts, Electron apps, Tauri apps and soon rust and GTK apps</p>
+<h3>My projects</h3>
+<p>I have some project about an OS and it's own ecosystem with <a href="https://getlemonade.org/home">Lemonade</a></p>
+<p>Also some project with mental health in mind might come soon</p>
+<p>Some random projects</p>
+<p>And way more things to come !</p>
+</div>
 
-<!--
-**MiMillieuh/MiMillieuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
