@@ -12,7 +12,7 @@
 <h3>What content do you make ?</h3>
 <p>I'm making bash scripts, Electron apps, Tauri apps and soon rust and GTK apps</p>
 <h3>My projects</h3>
-<p>I have some project about an OS and it's own ecosystem with <a href="https://getlemonade.org/home">Lemonade</a></p>
+<p>I have some project about an OS and it's own ecosystem with <a href="https://github.com/LemonadeSoftware">Lemonade</a></p>
 <p>Also some project with mental health in mind might come soon</p>
 <p>Some random projects</p>
 <p>And way more things to come !</p>
