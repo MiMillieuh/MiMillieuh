@@ -24,7 +24,7 @@
 <p>I'm making bash scripts, Electron apps, Tauri apps and soon rust and GTK apps</p>
 <h3>My projects</h3>
 <p>I have some project about an OS and it's own ecosystem with <a href="https://github.com/LemonadeSoftware">Lemonade</a></p>
-<p>Another project is to port the adobe suite to Linux</p>
+<p>Another project is to port the Adobe suite to Linux</p>
 <p>Also some project with mental health in mind might come soon</p>
 <p>Some random projects</p>
 <p>And way more things to come !</p>
