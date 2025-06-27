@@ -14,9 +14,6 @@
     <a href="https://www.youtube.com/channel/UC6GrYkEU8scHoL3ULcOXOOQ">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC6GrYkEU8scHoL3ULcOXOOQ?label=YT%20SUBSCRIBERS&style=for-the-badge">
     </a>
-    <a href="https://twitter.com/MiMillie1">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mimillie1?label=Twitter%20Followers&style=for-the-badge">
-    </a>
 </div>
 <h3>Who am I ?</h3>
 <p>I'm a young student that enjoy codding and do some softwares for Linux in general.</p>
