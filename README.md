@@ -16,7 +16,7 @@
     </a>
 </div>
 <h3>Who am I ?</h3>
-<p>I'm a young student that enjoy codding and do some softwares for Linux in general.</p>
+<p>I'm a person that enjoy codding and do some softwares for Linux in general.</p>
 <h3>What content do you make ?</h3>
 <p>I'm making bash scripts, Electron apps, Tauri apps and soon rust and GTK apps.</p>
 <h3>Some of my projects :</h3>
